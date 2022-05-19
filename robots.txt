@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://urfu-projects-workshop.github.io/sitemap.xml
